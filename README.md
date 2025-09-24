@@ -1,8 +1,3 @@
-تمام 👌
-هجهّزلك README ملف مشروع **SmartMart Sales Analysis** بشكل عصري وجذاب، فيه **إيموجي** و **Badges** زي الـ GitHub الحديثة عشان يبقى شكله بروفيشنال وملفت.
-
----
-
 # 🛒 SmartMart Sales Analysis
 
 ![Python](https://img.shields.io/badge/Python-3.9+-blue?logo=python)
